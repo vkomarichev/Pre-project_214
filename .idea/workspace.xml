@@ -5,10 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df6b0aba-3365-4307-a40f-4f540137aab5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PP_2_1_3_SpringBeans/src/main/java/app/model/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PP_2_1_3_SpringBeans/src/main/java/app/model/AnimalsCage.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_2_1_3_SpringBeans/src/main/java/app/model/AnimalsCage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PP_2_1_3_SpringBeans/src/main/java/app/model/Timer.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_2_1_3_SpringBeans/src/main/java/app/model/Timer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PP_2_1_3_SpringBeans/src/test/java/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_2_1_3_SpringBeans/src/test/java/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/model/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/model/AnimalsCage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/model/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/model/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/model/Timer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/app/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/app/config/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/app/model/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/app/model/AnimalsCage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/app/model/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/app/model/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/app/model/Timer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_2_1_3_SpringBeans" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +37,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/PP_2_1_3_SpringBeans" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -103,7 +117,7 @@
       <updated>1695113930958</updated>
       <workItem from="1695113932278" duration="400000" />
       <workItem from="1695114357288" duration="4618000" />
-      <workItem from="1695547685603" duration="3077000" />
+      <workItem from="1695547685603" duration="5678000" />
     </task>
     <servers />
   </component>
